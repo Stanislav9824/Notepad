@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <AssemblyName>Notepad</AssemblyName>
+    <RootNamespace>Notepad</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Resource Include="Localization\Strings.en.xaml" />
+    <Resource Include="Localization\Strings.uk.xaml" />
+    <Resource Include="Themes\ModernTheme.xaml" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,35 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+
+    <sys:String x:Key="AppTitle">Notepad</sys:String>
+    <sys:String x:Key="NewNote">Нова нотатка</sys:String>
+    <sys:String x:Key="SaveNote">Зберегти</sys:String>
+    <sys:String x:Key="DeleteNote">Видалити</sys:String>
+    <sys:String x:Key="UndoNote">Скасувати</sys:String>
+    <sys:String x:Key="NoteTitlePlaceholder">Назва нотатки...</sys:String>
+    <sys:String x:Key="NoteContentPlaceholder">Почніть вводити текст тут...</sys:String>
+    <sys:String x:Key="SearchPlaceholder">Пошук нотаток...</sys:String>
+    <sys:String x:Key="FontFamily">Шрифт</sys:String>
+    <sys:String x:Key="FontSize">Розмір</sys:String>
+    <sys:String x:Key="Bold">Жирний</sys:String>
+    <sys:String x:Key="Italic">Курсив</sys:String>
+    <sys:String x:Key="Underline">Підкреслений</sys:String>
+    <sys:String x:Key="TextColor">Колір</sys:String>
+    <sys:String x:Key="Language">Мова</sys:String>
+    <sys:String x:Key="English">Англійська</sys:String>
+    <sys:String x:Key="Ukrainian">Українська</sys:String>
+    <sys:String x:Key="ConfirmDelete">Ви впевнені, що хочете видалити цю нотатку?</sys:String>
+    <sys:String x:Key="ConfirmDeleteTitle">Видалення нотатки</sys:String>
+    <sys:String x:Key="Notes">Нотатки</sys:String>
+    <sys:String x:Key="NoNoteSelected">Оберіть або створіть нотатку</sys:String>
+    <sys:String x:Key="SavedAt">Збережено</sys:String>
+    <sys:String x:Key="Modified">Змінено</sys:String>
+    <sys:String x:Key="Created">Створено</sys:String>
+    <sys:String x:Key="UntitledNote">Без назви</sys:String>
+    <sys:String x:Key="Format">Форматування</sys:String>
+    <sys:String x:Key="File">Файл</sys:String>
+    <sys:String x:Key="Edit">Редагування</sys:String>
+    <sys:String x:Key="View">Вигляд</sys:String>
+
+</ResourceDictionary>
